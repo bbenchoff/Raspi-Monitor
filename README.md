@@ -24,6 +24,7 @@ Working Monitor:
 ![Running Doom](/images/Doom.png)
 
 The back, with embossed logo:
+
 ![Back](/images/Back.jpg)
 
 The AliExpress Listing:
